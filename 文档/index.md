@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 你好！这是我的blog。我是一个电脑爱好者，这是我的地址。
 
-You can use the [editor on GitHub](https://github.com/DongZhenzhe/ES-SYS-WEB/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+我现在六年级了，虽作业略多，但我仍旧努力更新blog。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
